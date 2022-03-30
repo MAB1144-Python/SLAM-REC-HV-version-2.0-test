@@ -14,6 +14,14 @@
 
 #### To encourage the staggered development of this technology, researchers are encouraged to leave their opinions, doubts and contributions, in order to create spaces for the appropriation of this technology and strengthen SLAM research.
 
+#### The respective code is in the rdslam folder, in this repository.
+
+https://github.com/MAB1144-Python/SLAM-REC-HV-version-1.0-test/tree/main/rdslam
+
+#### Installation guide for Rec-HV
+
+https://github.com/MAB1144-Python/Installation_guide
+
 ### Control Scenario detection test.
 
 [![Alt text](https://img.youtube.com/vi/xUmLrVYb-9k/0.jpg)](https://youtu.be/xUmLrVYb-9k)
